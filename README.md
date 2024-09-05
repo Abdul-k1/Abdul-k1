@@ -2,7 +2,7 @@
 
 
 
-I'm a Front End Develoer with interest in Javascript, React etc. I'm passionate about learning new technologies, sharing knowledge and others.
+I'm a Front End Developer with interest in Javascript, React etc. I'm passionate about learning new technologies, sharing knowledge and others.
 
 **Here's a quick summary about me**:
 
